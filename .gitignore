@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env.local
+
+# Java / Maven
+target/
+.idea/
+*.class
+*.iml
+
+# Logs & misc
+*.log
+.DS_Store
