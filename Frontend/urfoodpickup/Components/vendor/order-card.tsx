@@ -9,7 +9,7 @@ import {
   User, 
   Receipt, 
   Package, 
-  CheckCircle2, 
+  CheckCircle2,  
   Truck,
   Phone,
   Mail,
@@ -23,7 +23,7 @@ interface OrderCardProps {
     uid: string
     student: {
       uid: string
-      name: string
+      name: string 
       email: string
       username: string
     }
