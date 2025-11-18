@@ -3,7 +3,7 @@
 import { Card, CardContent, CardHeader } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Clock, User, MapPin, Package } from "lucide-react"
+import { Clock, User, MapPin, Package } from "lucide-react" 
 import type { VendorOrder } from "@/lib/vendor-mock-data"
 
 interface OrderCardProps {
